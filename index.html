@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="emasApp">
+
+<head>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width , initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="vendors/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+    <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic,100,300' rel='stylesheet' type='text/css'>
+    <title>Ethiopian Muslims Association of Seattle</title>
+    <link rel="icon" type="image/png" href="favicon.ico"> </head>
+
+<body>
+    <header ng-include="'header.html'"></header>
+    <main ng-view></main>
+    <footer ng-include="'footer.html'"></footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="vendors/js/bootstrap.min.js"></script>
+    <script src="vendors/js/angular.min.js"></script>
+    <script src="vendors/js/angular-route.min.js"></script>
+    <script src="vendors/js/angular-resource.min.js"></script>
+    <script src="resources/js/app.js"></script>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-75356556-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+
+</html>
