@@ -135,7 +135,7 @@ emasApp.controller('currentMonthPageController', ['$scope', '$http', 'currentMon
     });
 }]);
 
-// collapse mobile navbar after clicking on the link
+// Collapse mobile navbar after clicking on the link
 $(document).on('click', '.navbar-collapse.in', function (e) {
     if ($(e.target).is('a') && ($(e.target).attr('class') != 'dropdown-toggle')) {
         $(this).collapse('hide');
