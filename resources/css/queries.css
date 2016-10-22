@@ -23,6 +23,9 @@
     p {
         font-size: 100%;
     }
+    section {
+        padding-top: 20px;
+    }
     .navbar-fixed-top {
         height: 55px;
         padding: 0;
