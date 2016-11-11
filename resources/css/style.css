@@ -6,7 +6,8 @@
 
 /*---------------------------------------*/
 
-html, body {
+html,
+body {
     background-color: #fff;
     color: #555;
     font-family: 'Lato', 'Arial', sans-serif;
@@ -26,7 +27,9 @@ html, body {
 
 /*---------------------------------------*/
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
     word-spacing: 3px;
@@ -87,14 +90,16 @@ p {
     text-align: center;
 }
 
-.navbar-collapse li a:link, .navbar-collapse li a:visited {
+.navbar-collapse li a:link,
+.navbar-collapse li a:visited {
     color: #2c3e50;
     font-weight: 500;
     text-decoration: none;
     text-transform: uppercase;
 }
 
-.navbar-collapse li a:hover, .navbar-collapse li a:active {
+.navbar-collapse li a:hover,
+.navbar-collapse li a:active {
     border-bottom: 2px solid #555;
 }
 
@@ -143,13 +148,15 @@ p {
     margin-right: 40px;
 }
 
-.btn-primary:link, .btn-primary:visited {
+.btn-primary:link,
+.btn-primary:visited {
     background-color: #e67e22;
     border: 1px solid #e67e22;
     margin-right: 20px;
 }
 
-.btn-primary:hover, .btn-primary:active {
+.btn-primary:hover,
+.btn-primary:active {
     background-color: #bf6516;
     border-color: #bf6516;
 }
@@ -161,17 +168,20 @@ p {
     margin-right: 15px;
 }
 
-.btn-default:hover, .btn-default:active {
+.btn-default:hover,
+.btn-default:active {
     color: #fff;
     background-color: #e67e22;
     border-color: #e67e22;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
     color: #fff;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
     color: #fd7700;
     border-bottom: 1px solid transparent;
 }
@@ -259,7 +269,8 @@ a:hover, a:active {
     height: 400px;
 }
 
-#services-learn-more, #programs-learn-more {
+#services-learn-more,
+#programs-learn-more {
     display: block;
     text-align: right;
     color: #555;
@@ -269,12 +280,14 @@ a:hover, a:active {
     margin-bottom: 50px;
 }
 
-#services-learn-more:hover, #programs-learn-more:hover {
+#services-learn-more:hover,
+#programs-learn-more:hover {
     color: #e67e22;
     border: none;
 }
 
-#services-learn-more i, #programs-learn-more i {
+#services-learn-more i,
+#programs-learn-more i {
     padding: 0 5px;
 }
 
@@ -518,11 +531,26 @@ table .warning {
     background-color: #e67e22;
 }
 
-.table>thead>tr>td.prayer-table-cd, .table>tbody>tr>td.prayer-table-cd, .table>tfoot>tr>td.prayer-table-cd, .table>thead>tr>th.prayer-table-cd, .table>tbody>tr>th.prayer-table-cd, .table>tfoot>tr>th.prayer-table-cd, .table>thead>tr.prayer-table-cd>td, .table>tbody>tr.prayer-table-cd>td, .table>tfoot>tr.prayer-table-cd>td, .table>thead>tr.prayer-table-cd>th, .table>tbody>tr.prayer-table-cd>th, .table>tfoot>tr.prayer-table-cd>th {
+.table>thead>tr>td.prayer-table-cd,
+.table>tbody>tr>td.prayer-table-cd,
+.table>tfoot>tr>td.prayer-table-cd,
+.table>thead>tr>th.prayer-table-cd,
+.table>tbody>tr>th.prayer-table-cd,
+.table>tfoot>tr>th.prayer-table-cd,
+.table>thead>tr.prayer-table-cd>td,
+.table>tbody>tr.prayer-table-cd>td,
+.table>tfoot>tr.prayer-table-cd>td,
+.table>thead>tr.prayer-table-cd>th,
+.table>tbody>tr.prayer-table-cd>th,
+.table>tfoot>tr.prayer-table-cd>th {
     background-color: #3498db;
 }
 
-.table-hover>tbody>tr>td.prayer-table-cd:hover, .table-hover>tbody>tr>th.prayer-table-cd:hover, .table-hover>tbody>tr.prayer-table-cd:hover>td, .table-hover>tbody>tr:hover>.prayer-table-cd, .table-hover>tbody>tr.prayer-table-cd:hover>th {
+.table-hover>tbody>tr>td.prayer-table-cd:hover,
+.table-hover>tbody>tr>th.prayer-table-cd:hover,
+.table-hover>tbody>tr.prayer-table-cd:hover>td,
+.table-hover>tbody>tr:hover>.prayer-table-cd,
+.table-hover>tbody>tr.prayer-table-cd:hover>th {
     background-color: #2980b9;
 }
 
@@ -606,7 +634,8 @@ footer p {
     padding: 0 5px;
 }
 
-.footer-nav, .social-links {
+.footer-nav,
+.social-links {
     list-style: none;
     text-align: left;
 }
@@ -616,24 +645,33 @@ footer p {
     font-size: 100%;
 }
 
-.footer-nav li, .social-links li {
+.footer-nav li,
+.social-links li {
     display: inline-block;
     padding-right: 10px;
     color: #e67e22;
 }
 
-.footer-nav li a:link, .footer-nav li a:visited, .social-links li a:link, .social-links li a:visited {
+.footer-nav li a:link,
+.footer-nav li a:visited,
+.social-links li a:link,
+.social-links li a:visited {
     text-decoration: none;
     border: 0;
     color: #888;
     transition: color 0.2s;
 }
 
-.footer-nav li a:hover, .footer-nav li a:active, .social-links li a:hover, .social-links li a:active {
+.footer-nav li a:hover,
+.footer-nav li a:active,
+.social-links li a:hover,
+.social-links li a:active {
     color: #ddd;
 }
 
-.fa-facebook, .fa-twitter, .fa-google-plus {
+.fa-facebook,
+.fa-twitter,
+.fa-google-plus {
     transition: color 0.2s;
 }
 
@@ -653,7 +691,8 @@ blockquote {
     font-style: italic;
 }
 
-.fa-quote-left, .fa-quote-right {
+.fa-quote-left,
+.fa-quote-right {
     font-size: 95%;
     color: #e67e22;
 }
@@ -858,7 +897,8 @@ address {
 
 /*---------------------------------------*/
 
-.section-confirm, .section-success {
+.section-confirm,
+.section-success {
     padding-top: 100px;
     padding-bottom: 50px;
     background-color: #f7f7f7;
@@ -866,7 +906,8 @@ address {
     box-shadow: 0 2px 2px #555;
 }
 
-.section-confirm h3, .section-success h3 {
+.section-confirm h3,
+.section-success h3 {
     font-size: 200%;
     font-weight: 400;
 }
@@ -879,11 +920,13 @@ address {
     color: #27ae60;
 }
 
-.section-confirm p, .section-success p {
+.section-confirm p,
+.section-success p {
     font-size: 100%;
 }
 
-.section-confirm .fa, .section-success .fa {
+.section-confirm .fa,
+.section-success .fa {
     font-size: 140%;
 }
 
