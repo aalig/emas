@@ -57,7 +57,7 @@ emasApp.config(['$routeProvider', '$locationProvider', function($routeProvider, 
 }]);
 
 // SERVICES
-emasApp.service('currentMonthService', function() {
+emasApp.service('currentMonthService', function() {   
     function getCurrentMonth() {
         var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
         var d = new Date();
@@ -65,12 +65,23 @@ emasApp.service('currentMonthService', function() {
         console.log('Current month is: ' + currentMonth);
         return currentMonth;
     };
+    
+     // Gets current month
     this.currentMonth = getCurrentMonth();
+    
+    // Gets corresponding current month JSON file
     this.currentMonthJSON = function() {
         var currentMonth = getCurrentMonth().toLowerCase();
         var url = '../../data/' + currentMonth + '.json';
         console.log("Reading the JSON file using angular at the path: " + url);
         return url;
+    };
+    
+    // Gets hadith JSON file
+    this.hadithData = function(){
+        var hadithUrl = '../../data/hadith.json';
+        console.log("Reading the JSON file using angular at the path: " + hadithUrl);
+        return hadithUrl;
     };
 });
 
@@ -80,14 +91,29 @@ emasApp.service('currentMonthService', function() {
 emasApp.controller('mainController', ['$scope', function($scope) {}]);
 
 // Home Controller
-emasApp.controller('homeController', ['$scope', '$http', 'currentMonthService', function($scope, $http, currentMonthService) {
+emasApp.controller('homeController', ['$scope', '$http', 'currentMonthService', function ($scope, $http, currentMonthService) {
     $scope.currentMonth = currentMonthService.currentMonth;
     $scope.JSON_Url = currentMonthService.currentMonthJSON();
+    $scope.hadithUrl = currentMonthService.hadithData();
     $scope.todayDateString = new Date().toDateString();
-    $http.get($scope.JSON_Url).success(function(data) {
+    $http.get($scope.JSON_Url).success(function (data) {
         $scope.prayerData = data;
         console.log($scope.prayerData);
-        angular.forEach(data, function(value, key) {
+        angular.forEach(data, function (value, key) {
+            var todaysDate = new Date().getDate();
+            var todaysDateFromJson = value.day;
+            if (todaysDate === todaysDateFromJson) {
+                console.log('The key value for the matching date was: ' + key);
+                console.log('The matching date was: ' + value.day);
+                $scope.key = key;
+                return false;
+            }
+        });
+    });
+    $http.get($scope.hadithUrl).success(function (data) {
+        $scope.hadithData = data;
+        console.log($scope.hadithData);
+        angular.forEach(data, function (value, key) {
             var todaysDate = new Date().getDate();
             var todaysDateFromJson = value.day;
             if (todaysDate === todaysDateFromJson) {
