@@ -81,7 +81,7 @@ emasApp.service('currentMonthService', function() {
 	 // Gets the Quran JSON file
     this.quranData = function(){
         var quranUrl = '../../data/quran.json';
-        console.log("Reading the JSON file using angular at the path: " + quranUrl);
+        console.log("Reading the Quran JSON file using angular at the path: " + quranUrl);
         return quranUrl;
     };
 	
@@ -95,7 +95,7 @@ emasApp.service('currentMonthService', function() {
 	 // Gets supplication JSON file
     this.supplicationData = function(){
         var supplicationUrl = '../../data/supplication.json';
-        console.log("Reading the JSON file using angular at the path: " + supplicationUrl);
+        console.log("Reading the Supplication JSON file using angular at the path: " + supplicationUrl);
         return supplicationUrl;
     };
 });

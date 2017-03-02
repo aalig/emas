@@ -64,7 +64,7 @@ h3 {
 }
 
 section {
-	padding-top: 80px;	
+	padding-top: 80px;
 }
 
 p {
@@ -256,6 +256,7 @@ a:active {
 	z-index: 1;
 }
 
+
 /*------------------------*/
 
 
@@ -272,32 +273,35 @@ a:active {
 	padding-bottom: 30px;
 }
 
-.section-reminders h1{
+.section-reminders h1 {
 	font-weight: 500;
 	margin-top: 5px;
 	padding-bottom: 20px;
 }
 
-.section-reminders h2{
+.section-reminders h2 {
 	color: #fff;
 }
 
-.section-reminders h3{
+.section-reminders h3 {
 	color: #e67e22;
 }
-.section-reminders h4{
+
+.section-reminders h4 {
 	color: #27ae60;
 	font-size: 110%;
-	font-style: italic;	
+	font-style: italic;
 }
-.section-reminders h2:after{	
+
+.section-reminders h2:after {
 	display: none;
 }
 
-.section-reminders cite{
+.section-reminders cite {
 	color: #ffcc9f;
-	font-size: 85%;		
+	font-size: 85%;
 }
+
 .section-services .col-wrapper {
 	height: 400px;
 }
@@ -369,7 +373,7 @@ a:active {
 
 .announcement-footer .btn {
 	background-color: #34495e;
-	border: none;	
+	border: none;
 }
 
 .announcement-footer .btn:hover {
@@ -432,13 +436,15 @@ a:active {
 }
 
 .section-programs .fa-stack {
-	font-size: 300%;		
+	font-size: 300%;
 }
 
 .section-programs .programs h3 {
 	font-weight: 500;
 	font-size: 120%;
 }
+
+
 /*------------------------*/
 
 
