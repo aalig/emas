@@ -76,12 +76,27 @@ emasApp.service('currentMonthService', function() {
         console.log("Reading the JSON file using angular at the path: " + url);
         return url;
     };
-    
+	
+	 
+	 // Gets the Quran JSON file
+    this.quranData = function(){
+        var quranUrl = '../../data/quran.json';
+        console.log("Reading the JSON file using angular at the path: " + quranUrl);
+        return quranUrl;
+    };
+	
     // Gets hadith JSON file
     this.hadithData = function(){
         var hadithUrl = '../../data/hadith.json';
         console.log("Reading the JSON file using angular at the path: " + hadithUrl);
         return hadithUrl;
+    };
+	
+	 // Gets supplication JSON file
+    this.supplicationData = function(){
+        var supplicationUrl = '../../data/supplication.json';
+        console.log("Reading the JSON file using angular at the path: " + supplicationUrl);
+        return supplicationUrl;
     };
 });
 
@@ -93,8 +108,10 @@ emasApp.controller('mainController', ['$scope', function($scope) {}]);
 // Home Controller
 emasApp.controller('homeController', ['$scope', '$http', 'currentMonthService', function ($scope, $http, currentMonthService) {
     $scope.currentMonth = currentMonthService.currentMonth;
+	  $scope.quranUrl = currentMonthService.quranData();
     $scope.JSON_Url = currentMonthService.currentMonthJSON();
     $scope.hadithUrl = currentMonthService.hadithData();
+	  $scope.supplicationUrl = currentMonthService.supplicationData();
     $scope.todayDateString = new Date().toDateString();
     $http.get($scope.JSON_Url).success(function (data) {
         $scope.prayerData = data;
@@ -104,6 +121,20 @@ emasApp.controller('homeController', ['$scope', '$http', 'currentMonthService', 
             var todaysDateFromJson = value.day;
             if (todaysDate === todaysDateFromJson) {
                 console.log('The key value for the matching date was: ' + key);
+                console.log('The matching date was: ' + value.day);
+                $scope.key = key;
+                return false;
+            }
+        });
+    });
+	  $http.get($scope.quranUrl).success(function (data) {
+        $scope.quranData = data;
+        console.log($scope.quranData);
+        angular.forEach(data, function (value, key) {
+            var todaysDate = new Date().getDate();
+            var todaysDateFromJson = value.day;
+            if (todaysDate === todaysDateFromJson) {
+                console.log('The key value for the matching quran ayat was: ' + key);
                 console.log('The matching date was: ' + value.day);
                 $scope.key = key;
                 return false;
@@ -124,6 +155,20 @@ emasApp.controller('homeController', ['$scope', '$http', 'currentMonthService', 
             }
         });
     });
+		$http.get($scope.supplicationUrl).success(function (data) {
+					$scope.supplicationData = data;
+					console.log($scope.supplicationData);
+					angular.forEach(data, function (value, key) {
+							var todaysDate = new Date().getDate();
+							var todaysDateFromJson = value.day;
+							if (todaysDate === todaysDateFromJson) {
+									console.log('The key value for the matching supplication was: ' + key);
+									console.log('The matching date was: ' + value.day);
+									$scope.key = key;
+									return false;
+							}
+					});
+			});
 }]);
 
 // Current Month Page Controller
