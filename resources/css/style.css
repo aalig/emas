@@ -600,7 +600,7 @@ table .warning {
 .table>thead>tr.prayer-table-cd>th,
 .table>tbody>tr.prayer-table-cd>th,
 .table>tfoot>tr.prayer-table-cd>th {
-	background-color: #3498db;
+	background-color: #27ae60;
 }
 
 .table-hover>tbody>tr>td.prayer-table-cd:hover,
@@ -608,7 +608,7 @@ table .warning {
 .table-hover>tbody>tr.prayer-table-cd:hover>td,
 .table-hover>tbody>tr:hover>.prayer-table-cd,
 .table-hover>tbody>tr.prayer-table-cd:hover>th {
-	background-color: #2980b9;
+	background-color: #2ecc71;
 }
 
 
