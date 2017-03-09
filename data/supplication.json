@@ -42,7 +42,7 @@
 	, "source": "Hisnul Muslim Dua No. 10"
 }, {
 	"day": 8.0
-	, "supplication": "Supplication upoon entering the home"
+	, "supplication": "Supplication upon entering the home"
 	, "arabic": "بِسْـمِ اللهِ وَلَجْنـا، وَبِسْـمِ اللهِ خَـرَجْنـا، وَعَلـى رَبِّنـا تَوَكّلْـنا"
 	, "english": "In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust."
 	, "source": "Hisnul Muslim Dua No. 11"
@@ -55,7 +55,67 @@
 }, {
 	"day": 10.0
 	, "supplication": "Supplication upon entering the mosque"
-	, "arabic": "بِسْـمِ اللهِ وَلَجْنـا، وَبِسْـمِ اللهِ خَـرَجْنـا، وَعَلـى رَبِّنـا تَوَكّلْـنا"
+	, "arabic": "عوذُ باللهِ العَظيـم وَبِوَجْهِـهِ الكَرِيـم وَسُلْطـانِه القَديـم مِنَ الشّيْـطانِ الرَّجـيم،[ بِسْـمِ الله، وَالصَّلاةُ] [وَالسَّلامُ عَلى رَسولِ الله]، اللّهُـمَّ افْتَـحْ لي أَبْوابَ رَحْمَتـِك"
 	, "english": "I take refuge with Allah, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allah, and prayers and peace be upon the Messenger of Allah. O Allah, open the gates of Your mercy for me."
 	, "source": "Hisnul Muslim Dua No. 13"
+}, {
+	"day": 11.0
+	, "supplication": "Supplication upon leaving the mosque"
+	, "arabic": "بِسمِ الله وَالصّلاةُ وَالسّلامُ عَلى رَسولِ الله، اللّهُـمَّ إِنّـي أَسْأَلُكَ مِـنْ فَضْـلِك، اللّهُـمَّ اعصِمْنـي مِنَ الشَّيْـطانِ الرَّجـيم"
+	, "english": "In the name of Allah, and prayers and peace be upon the Messenger of Allah. O Allah, I ask You from Your favour. O Allah, guard me from the accursed devil."
+	, "source": "Hisnul Muslim Dua No. 14"
+}, {
+	"day": 12.0
+	, "supplication": "Supplication after the adhan is called"
+	, "arabic": "اللّهُـمَّ رَبَّ هَذِهِ الدّعْـوَةِ التّـامَّة وَالصّلاةِ القَـائِمَة آتِ محَـمَّداً الوَسيـلةَ وَالْفَضـيلَة وَابْعَـثْه مَقـامـاً مَحـموداً الَّذي وَعَـدْتَه إِنَّـكَ لا تُـخْلِفُ الميـعاد"
+	, "english": "O Allah, Owner of this perfect call and Owner of this prayer to be performed, bestow upon Muhammad al-waseelah and al-fadeelah and send him upon a praised platform which You have promised him. Verily, You never fail in Your promise.’ al-waseelah: A station in paradise. al-fadeelah: A rank above the rest of creation. praised platform: One in which all of creation will praise him on, in order to bring about the account quickly and be relieved from the lengthy standing or the role of intercession."
+	, "source": "Hisnul Muslim Dua No. 15"
+}, {
+	"day": 13.0
+	, "supplication": "Supplication at the start of the prayer (after takbeer)"
+	, "arabic": "سُبْـحانَكَ اللّهُـمَّ وَبِحَمْـدِكَ وَتَبارَكَ اسْمُـكَ وَتَعـالى جَـدُّكَ وَلا إِلهَ غَيْرُك"
+	, "english": "How perfect You are O Allah, and I praise You. Blessed be Your name, and lofty is Your position and none has the right to be worshipped except You."
+	, "source": "Hisnul Muslim Dua No. 16"
+}, {
+	"day": 14.0
+	, "supplication": "Supplication when prostrating due to recitation of the Quran"
+	, "arabic": "سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ، فَتَبَارَكَ اللهُ أَحسَنُ الْخَالِقِي"
+	, "english": "My face fell prostrate before He who created it and brought forth its faculties of hearing and seeing by His might and power. So Blessed is Allah, the best of creators."
+	, "source": "Hisnul Muslim Dua No. 21"
+}, {
+	"day": 15.0
+	, "supplication": "Supplication after the last tashahhud and before salam"
+	, "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِكَ مِـنْ عَذابِ القَـبْر، وَمِـنْ عَذابِ جَهَـنَّم، وَمِـنْ فِتْـنَةِ المَحْـيا وَالمَمـات، وَمِـنْ شَـرِّ فِتْـنَةِ المَسيحِ الدَّجّال"
+	, "english": "O Allah, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death and from the evil affliction of Al-Maseeh Ad-Dajjal."
+	, "source": "Hisnul Muslim Dua No. 24"
+}, {
+	"day": 16.0
+	, "supplication": "Supplication after the salam (finishing the prayer)"
+	, "arabic": "أَسْـتَغْفِرُ الله . (ثَلاثاً) اللّهُـمَّ أَنْـتَ السَّلامُ ، وَمِـنْكَ السَّلام ، تَبارَكْتَ يا ذا الجَـلالِ وَالإِكْـرام "
+	, "english": "I ask Allah for forgiveness. (three times) O Allah, You are As-Salam and from You is all peace, blessed are You, O Possessor of majesty and honour. AS-Salam: The One Who is free from all defects and deficiencies."
+	, "source": "Hisnul Muslim Dua No. 25"
+}, {
+	"day": 17.0
+	, "supplication": "Supplication before sleeping"
+	, "arabic": "بِاسْمِكَ اللَّهمَّ أَمُوْتُ وَأَحْيَا"
+	, "english": "In Your name O Allah, I live and die."
+	, "source": "Hisnul Muslim Dua No. 28"
+}, {
+	"day": 18.0
+	, "supplication": "Supplication upon experiencing unrest, fear, apprehensiveness and the like during sleep"
+	, "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ غَضَبِه  وَعِقَابِهِ، وَشَرِّ عِبَادِه  وَمِنْ هَمَزَاتِ الشَّيْاطِيْنِ وَأَنْ يَحْضُرُوْنَ"
+	, "english": "I take refuge in the perfect words of Allah from His anger and punishment, and from the evil of His servants, and from the madness and appearance of devils."
+	, "source": "Hisnul Muslim Dua No. 30"
+}, {
+	"day": 19.0
+	, "supplication": "Supplication Qunoot Al-Witr (dua qunoot)"
+	, "arabic": "اللَّهُمَّ اهْدِنِي فِيْمَنْ هَدَيْتَ، وَعَافِنِي فِيْمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيْمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيْمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلا يُقْضَى عَلَيْكَ، إِنَّهُ لا يَذِلُّ مَنْ وَالَيْتَ، [ وَلا يَعِزُّ مَنْ عَادَيْتَ ]، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ"
+	, "english": "O Allah, guide me along with those whom You have guided, pardon me along with those whom You have pardoned, be an ally to me along with those whom You are an ally to and bless for me that which You have bestowed. Protect me from the evil You have decreed for verily You decree and none can decree over You. For surety, he whom you show allegiance to is never abased and he whom You take as an enemy is never honoured. O our Lord, Blessed and Exalted are You."
+	, "source": "Hisnul Muslim Dua No. 32"
+}, {
+	"day": 20.0
+	, "supplication": "Supplication for anxiety and sorrow (ways to deal with stress)"
+	, "arabic": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الهَمِّ وَالحُزْنِ، وَالعَجْزِ وَالكَسَلِ وَالبُخْلِ وَالجُبْنِ، وَضَلْعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ"
+	, "english": "O Allah, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being over powered by men."
+	, "source": "Hisnul Muslim Dua No. 34"
 }]
