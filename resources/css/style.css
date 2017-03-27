@@ -289,17 +289,19 @@ a:active {
 
 .section-reminders h4 {
 	color:#2ecc71;	
-	font-size: 90%;
+	font-size: 100%;
 	font-style: italic;
 }
 
 .section-reminders h2:after {
 	display: none;
 }
-
+.section-reminders quote {
+	font-style: italic;	
+}
 .section-reminders cite {
 	color: #ffcc9f;
-	font-size: 85%;
+	font-size: 95%;
 }
 
 .section-services .col-wrapper {
@@ -417,7 +419,7 @@ a:active {
 }
 
 .vertical-divider {
-	border-left: 2px solid #e67e22;
+	border-right: 2px solid #e67e22;
 }
 
 .section-programs {
@@ -761,7 +763,7 @@ blockquote {
 
 .fa-quote-left,
 .fa-quote-right {
-	font-size: 95%;
+	font-size: 90%;
 	color: #e67e22;
 }
 
