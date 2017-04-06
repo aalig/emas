@@ -72,28 +72,28 @@ emasApp.service('currentMonthService', function () {
 	// Gets corresponding current month JSON file
 	this.currentMonthJSON = function () {
 		var currentMonth = getCurrentMonth().toLowerCase();
-		var url = '../../data/' + currentMonth + '.json';
+		var url = '../../data/prayer/' + currentMonth + '.json';
 		console.log("Reading the current month JSON file using angular at the path: " + url);
 		return url;
 	};
 	
 	// Gets the Quran JSON file
 	this.quranData = function () {
-		var quranUrl = '../../data/quran.json';
+		var quranUrl = '../../data/remdinder/quran/quran.json';
 		console.log("Reading the Quran JSON file using angular at the path: " + quranUrl);
 		return quranUrl;
 	};
 	
 	// Gets hadith JSON file
 	this.hadithData = function () {
-		var hadithUrl = '../../data/hadith-1.json';
+		var hadithUrl = '../../data/remdinder/hadith/hadith-1.json';
 		console.log("Reading the JSON file using angular at the path: " + hadithUrl);
 		return hadithUrl;
 	};
 	
 	// Gets supplication JSON file
 	this.supplicationData = function () {
-		var supplicationUrl = '../../data/supplication.json';
+		var supplicationUrl = '../../data/remdinder/supplication/supplication.json';
 		console.log("Reading the Supplication JSON file using angular at the path: " + supplicationUrl);
 		return supplicationUrl;
 	};

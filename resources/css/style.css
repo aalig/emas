@@ -396,18 +396,19 @@ a:active {
 	background-color: #2c3e50;
 }
 
+#newsletter .announcement-content {
+	border-bottom: 1px solid #e8e8e8;
+}
+
 #newsletter .announcement-content p {
 	font-style: italic;
+	color: #210000;
 }
 
 #newsletter .announcement-footer {
 	color: #fff;
 	font-weight: 400;
 	background-color: #455A64;
-}
-
-#newsletter .announcement-content {
-	border-bottom: 1px solid #e8e8e8;
 }
 
 .newsletter-button {
