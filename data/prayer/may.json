@@ -1,404 +1,404 @@
 [{
-	"day": 1.0
-	, "fajir": "4:11"
-	, "fajirIqamah": "4:40"
-	, "sunrise": "5:53"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:06"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:21"
-	, "maghribIqamah": "8:25"
-	, "isha": "10:03"
-	, "ishaIqamah": "10:15"
+    "date": 1.0,
+    "fajir": "4:11",
+    "fajirIqamah": "4:40",
+    "sunrise": "5:53",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:06",
+    "asrIqamah": "6:00",
+    "maghrib": "8:21",
+    "maghribIqamah": "8:30",
+    "isha": "10:03",
+    "ishaIqamah": "10:15"
 }, {
-	"day": 2.0
-	, "fajir": "4:09"
-	, "fajirIqamah": "4:40"
-	, "sunrise": "5:51"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:06"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:22"
-	, "maghribIqamah": "8:25"
-	, "isha": "10:05"
-	, "ishaIqamah": "10:15"
+    "date": 2.0,
+    "fajir": "4:09",
+    "fajirIqamah": "4:40",
+    "sunrise": "5:51",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:06",
+    "asrIqamah": "6:00",
+    "maghrib": "8:22",
+    "maghribIqamah": "8:30",
+    "isha": "10:05",
+    "ishaIqamah": "10:15"
 }, {
-	"day": 3.0
-	, "fajir": "4:06"
-	, "fajirIqamah": "4:40"
-	, "sunrise": "5:49"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:07"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:24"
-	, "maghribIqamah": "8:25"
-	, "isha": "10:07"
-	, "ishaIqamah": "10:15"
+    "date": 3.0,
+    "fajir": "4:06",
+    "fajirIqamah": "4:40",
+    "sunrise": "5:49",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:07",
+    "asrIqamah": "6:00",
+    "maghrib": "8:24",
+    "maghribIqamah": "8:35",
+    "isha": "10:07",
+    "ishaIqamah": "10:15"
 }, {
-	"day": 4.0
-	, "fajir": "4:04"
-	, "fajirIqamah": "4:40"
-	, "sunrise": "5:48"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:07"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:25"
-	, "maghribIqamah": "8:30"
-	, "isha": "10:09"
-	, "ishaIqamah": "10:15"
+    "date": 4.0,
+    "fajir": "4:04",
+    "fajirIqamah": "4:40",
+    "sunrise": "5:48",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:07",
+    "asrIqamah": "6:00",
+    "maghrib": "8:25",
+    "maghribIqamah": "8:35",
+    "isha": "10:09",
+    "ishaIqamah": "10:15"
 }, {
-	"day": 5.0
-	, "fajir": "4:02"
-	, "fajirIqamah": "4:40"
-	, "sunrise": "5:46"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:08"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:27"
-	, "maghribIqamah": "8:30"
-	, "isha": "10:11"
-	, "ishaIqamah": "10:15"
+    "date": 5.0,
+    "fajir": "4:02",
+    "fajirIqamah": "4:40",
+    "sunrise": "5:46",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:08",
+    "asrIqamah": "6:00",
+    "maghrib": "8:27",
+    "maghribIqamah": "8:35",
+    "isha": "10:11",
+    "ishaIqamah": "10:15"
 }, {
-	"day": 6.0
-	, "fajir": "4:00"
-	, "fajirIqamah": "4:35"
-	, "sunrise": "5:45"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:08"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:28"
-	, "maghribIqamah": "8:30"
-	, "isha": "10:13"
-	, "ishaIqamah": "10:25"
+    "date": 6.0,
+    "fajir": "4:00",
+    "fajirIqamah": "4:35",
+    "sunrise": "5:45",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:08",
+    "asrIqamah": "6:00",
+    "maghrib": "8:28",
+    "maghribIqamah": "8:35",
+    "isha": "10:13",
+    "ishaIqamah": "10:25"
 }, {
-	"day": 7.0
-	, "fajir": "3:57"
-	, "fajirIqamah": "4:35"
-	, "sunrise": "5:43"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:09"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:29"
-	, "maghribIqamah": "8:30"
-	, "isha": "10:15"
-	, "ishaIqamah": "10:25"
+    "date": 7.0,
+    "fajir": "3:57",
+    "fajirIqamah": "4:35",
+    "sunrise": "5:43",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:09",
+    "asrIqamah": "6:00",
+    "maghrib": "8:29",
+    "maghribIqamah": "8:40",
+    "isha": "10:15",
+    "ishaIqamah": "10:25"
 }, {
-	"day": 8.0
-	, "fajir": "3:55"
-	, "fajirIqamah": "4:35"
-	, "sunrise": "5:42"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:09"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:31"
-	, "maghribIqamah": "8:35"
-	, "isha": "10:17"
-	, "ishaIqamah": "10:25"
+    "date": 8.0,
+    "fajir": "3:55",
+    "fajirIqamah": "4:35",
+    "sunrise": "5:42",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:09",
+    "asrIqamah": "6:00",
+    "maghrib": "8:31",
+    "maghribIqamah": "8:40",
+    "isha": "10:17",
+    "ishaIqamah": "10:25"
 }, {
-	"day": 9.0
-	, "fajir": "3:53"
-	, "fajirIqamah": "4:35"
-	, "sunrise": "5:40"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:10"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:32"
-	, "maghribIqamah": "8:35"
-	, "isha": "10:19"
-	, "ishaIqamah": "10:25"
+    "date": 9.0,
+    "fajir": "3:53",
+    "fajirIqamah": "4:35",
+    "sunrise": "5:40",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:10",
+    "asrIqamah": "6:00",
+    "maghrib": "8:32",
+    "maghribIqamah": "8:40",
+    "isha": "10:19",
+    "ishaIqamah": "10:25"
 }, {
-	"day": 10.0
-	, "fajir": "3:51"
-	, "fajirIqamah": "4:35"
-	, "sunrise": "5:39"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:10"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:33"
-	, "maghribIqamah": "8:35"
-	, "isha": "10:21"
-	, "ishaIqamah": "10:25"
+    "date": 10.0,
+    "fajir": "3:51",
+    "fajirIqamah": "4:35",
+    "sunrise": "5:39",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:10",
+    "asrIqamah": "6:00",
+    "maghrib": "8:33",
+    "maghribIqamah": "8:40",
+    "isha": "10:21",
+    "ishaIqamah": "10:25"
 }, {
-	"day": 11.0
-	, "fajir": "3:49"
-	, "fajirIqamah": "4:30"
-	, "sunrise": "5:37"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:11"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:35"
-	, "maghribIqamah": "8:40"
-	, "isha": "10:23"
-	, "ishaIqamah": "10:35"
+    "date": 11.0,
+    "fajir": "3:49",
+    "fajirIqamah": "4:30",
+    "sunrise": "5:37",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:11",
+    "asrIqamah": "6:00",
+    "maghrib": "8:35",
+    "maghribIqamah": "8:45",
+    "isha": "10:23",
+    "ishaIqamah": "10:35"
 }, {
-	"day": 12.0
-	, "fajir": "3:47"
-	, "fajirIqamah": "4:30"
-	, "sunrise": "5:36"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:11"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:36"
-	, "maghribIqamah": "8:40"
-	, "isha": "10:25"
-	, "ishaIqamah": "10:35"
+    "date": 12.0,
+    "fajir": "3:47",
+    "fajirIqamah": "4:30",
+    "sunrise": "5:36",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:11",
+    "asrIqamah": "6:00",
+    "maghrib": "8:36",
+    "maghribIqamah": "8:45",
+    "isha": "10:25",
+    "ishaIqamah": "10:35"
 }, {
-	"day": 13.0
-	, "fajir": "3:45"
-	, "fajirIqamah": "4:30"
-	, "sunrise": "5:35"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:12"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:37"
-	, "maghribIqamah": "8:40"
-	, "isha": "10:28"
-	, "ishaIqamah": "10:35"
+    "date": 13.0,
+    "fajir": "3:45",
+    "fajirIqamah": "4:30",
+    "sunrise": "5:35",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:12",
+    "asrIqamah": "6:00",
+    "maghrib": "8:37",
+    "maghribIqamah": "8:45",
+    "isha": "10:28",
+    "ishaIqamah": "10:35"
 }, {
-	"day": 14.0
-	, "fajir": "3:42"
-	, "fajirIqamah": "4:30"
-	, "sunrise": "5:33"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:12"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:39"
-	, "maghribIqamah": "8:40"
-	, "isha": "10:30"
-	, "ishaIqamah": "10:35"
+    "date": 14.0,
+    "fajir": "3:42",
+    "fajirIqamah": "4:30",
+    "sunrise": "5:33",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:12",
+    "asrIqamah": "6:00",
+    "maghrib": "8:39",
+    "maghribIqamah": "8:50",
+    "isha": "10:30",
+    "ishaIqamah": "10:35"
 }, {
-	"day": 15.0
-	, "fajir": "3:40"
-	, "fajirIqamah": "4:30"
-	, "sunrise": "5:32"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:12"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:40"
-	, "maghribIqamah": "8:45"
-	, "isha": "10:32"
-	, "ishaIqamah": "10:35"
+    "date": 15.0,
+    "fajir": "3:40",
+    "fajirIqamah": "4:30",
+    "sunrise": "5:32",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:12",
+    "asrIqamah": "6:00",
+    "maghrib": "8:40",
+    "maghribIqamah": "8:50",
+    "isha": "10:32",
+    "ishaIqamah": "10:35"
 }, {
-	"day": 16.0
-	, "fajir": "3:38"
-	, "fajirIqamah": "4:20"
-	, "sunrise": "5:31"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:13"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:41"
-	, "maghribIqamah": "8:45"
-	, "isha": "10:34"
-	, "ishaIqamah": "10:45"
+    "date": 16.0,
+    "fajir": "3:38",
+    "fajirIqamah": "4:20",
+    "sunrise": "5:31",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:13",
+    "asrIqamah": "6:00",
+    "maghrib": "8:41",
+    "maghribIqamah": "8:50",
+    "isha": "10:34",
+    "ishaIqamah": "10:45"
 }, {
-	"day": 17.0
-	, "fajir": "3:36"
-	, "fajirIqamah": "4:20"
-	, "sunrise": "5:30"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:13"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:42"
-	, "maghribIqamah": "8:45"
-	, "isha": "10:36"
-	, "ishaIqamah": "10:45"
+    "date": 17.0,
+    "fajir": "3:36",
+    "fajirIqamah": "4:20",
+    "sunrise": "5:30",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:13",
+    "asrIqamah": "6:00",
+    "maghrib": "8:42",
+    "maghribIqamah": "8:50",
+    "isha": "10:36",
+    "ishaIqamah": "10:45"
 }, {
-	"day": 18.0
-	, "fajir": "3:34"
-	, "fajirIqamah": "4:20"
-	, "sunrise": "5:28"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:14"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:44"
-	, "maghribIqamah": "8:45"
-	, "isha": "10:38"
-	, "ishaIqamah": "10:45"
+    "date": 18.0,
+    "fajir": "3:34",
+    "fajirIqamah": "4:20",
+    "sunrise": "5:28",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:14",
+    "asrIqamah": "6:00",
+    "maghrib": "8:44",
+    "maghribIqamah": "8:55",
+    "isha": "10:38",
+    "ishaIqamah": "10:45"
 }, {
-	"day": 19.0
-	, "fajir": "3:32"
-	, "fajirIqamah": "4:20"
-	, "sunrise": "5:27"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:14"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:45"
-	, "maghribIqamah": "8:50"
-	, "isha": "10:40"
-	, "ishaIqamah": "10:45"
+    "date": 19.0,
+    "fajir": "3:32",
+    "fajirIqamah": "4:20",
+    "sunrise": "5:27",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:14",
+    "asrIqamah": "6:00",
+    "maghrib": "8:45",
+    "maghribIqamah": "8:55",
+    "isha": "10:40",
+    "ishaIqamah": "10:45"
 }, {
-	"day": 20.0
-	, "fajir": "3:31"
-	, "fajirIqamah": "4:20"
-	, "sunrise": "5:26"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:15"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:46"
-	, "maghribIqamah": "8:50"
-	, "isha": "10:42"
-	, "ishaIqamah": "10:45"
+    "date": 20.0,
+    "fajir": "3:31",
+    "fajirIqamah": "4:20",
+    "sunrise": "5:26",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:15",
+    "asrIqamah": "6:00",
+    "maghrib": "8:46",
+    "maghribIqamah": "8:55",
+    "isha": "10:42",
+    "ishaIqamah": "10:45"
 }, {
-	"day": 21.0
-	, "fajir": "3:29"
-	, "fajirIqamah": "4:10"
-	, "sunrise": "5:25"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:15"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:47"
-	, "maghribIqamah": "8:50"
-	, "isha": "10:44"
-	, "ishaIqamah": "10:55"
+    "date": 21.0,
+    "fajir": "3:29",
+    "fajirIqamah": "4:10",
+    "sunrise": "5:25",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:15",
+    "asrIqamah": "6:00",
+    "maghrib": "8:47",
+    "maghribIqamah": "8:55",
+    "isha": "10:44",
+    "ishaIqamah": "10:55"
 }, {
-	"day": 22.0
-	, "fajir": "3:27"
-	, "fajirIqamah": "4:10"
-	, "sunrise": "5:24"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:16"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:48"
-	, "maghribIqamah": "8:50"
-	, "isha": "10:46"
-	, "ishaIqamah": "10:55"
+    "date": 22.0,
+    "fajir": "3:27",
+    "fajirIqamah": "4:10",
+    "sunrise": "5:24",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:16",
+    "asrIqamah": "6:00",
+    "maghrib": "8:48",
+    "maghribIqamah": "9:00",
+    "isha": "10:46",
+    "ishaIqamah": "10:55"
 }, {
-	"day": 23.0
-	, "fajir": "3:25"
-	, "fajirIqamah": "4:10"
-	, "sunrise": "5:23"
-	, "duhur": "1:06"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:16"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:50"
-	, "maghribIqamah": "8:55"
-	, "isha": "10:48"
-	, "ishaIqamah": "10:55"
+    "date": 23.0,
+    "fajir": "3:25",
+    "fajirIqamah": "4:10",
+    "sunrise": "5:23",
+    "duhur": "1:06",
+    "duhurIqamah": "1:30",
+    "asr": "5:16",
+    "asrIqamah": "6:00",
+    "maghrib": "8:50",
+    "maghribIqamah": "9:00",
+    "isha": "10:48",
+    "ishaIqamah": "10:55"
 }, {
-	"day": 24.0
-	, "fajir": "3:23"
-	, "fajirIqamah": "4:10"
-	, "sunrise": "5:22"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:17"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:51"
-	, "maghribIqamah": "8:55"
-	, "isha": "10:50"
-	, "ishaIqamah": "10:55"
+    "date": 24.0,
+    "fajir": "3:23",
+    "fajirIqamah": "4:10",
+    "sunrise": "5:22",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:17",
+    "asrIqamah": "6:00",
+    "maghrib": "8:51",
+    "maghribIqamah": "9:00",
+    "isha": "10:50",
+    "ishaIqamah": "10:55"
 }, {
-	"day": 25.0
-	, "fajir": "3:22"
-	, "fajirIqamah": "4:10"
-	, "sunrise": "5:21"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:17"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:52"
-	, "maghribIqamah": "8:55"
-	, "isha": "10:52"
-	, "ishaIqamah": "10:55"
+    "date": 25.0,
+    "fajir": "3:22",
+    "fajirIqamah": "4:10",
+    "sunrise": "5:21",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:17",
+    "asrIqamah": "6:00",
+    "maghrib": "8:52",
+    "maghribIqamah": "9:00",
+    "isha": "10:52",
+    "ishaIqamah": "10:55"
 }, {
-	"day": 26.0
-	, "fajir": "3:20"
-	, "fajirIqamah": "4:00"
-	, "sunrise": "5:20"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:17"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:53"
-	, "maghribIqamah": "8:55"
-	, "isha": "10:54"
-	, "ishaIqamah": "11:05"
+    "date": 26.0,
+    "fajir": "3:20",
+    "fajirIqamah": "4:00",
+    "sunrise": "5:20",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:17",
+    "asrIqamah": "6:00",
+    "maghrib": "8:53",
+    "maghribIqamah": "9:00",
+    "isha": "10:54",
+    "ishaIqamah": "11:05"
 }, {
-	"day": 27.0
-	, "fajir": "3:18"
-	, "fajirIqamah": "4:00"
-	, "sunrise": "5:19"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:18"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:54"
-	, "maghribIqamah": "8:55"
-	, "isha": "10:55"
-	, "ishaIqamah": "11:05"
+    "date": 27.0,
+    "fajir": "3:18",
+    "fajirIqamah": "4:00",
+    "sunrise": "5:19",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:18",
+    "asrIqamah": "6:00",
+    "maghrib": "8:54",
+    "maghribIqamah": "9:05",
+    "isha": "10:55",
+    "ishaIqamah": "11:05"
 }, {
-	"day": 28.0
-	, "fajir": "3:17"
-	, "fajirIqamah": "4:00"
-	, "sunrise": "5:18"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:18"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:55"
-	, "maghribIqamah": "9:00"
-	, "isha": "10:57"
-	, "ishaIqamah": "11:05"
+    "date": 28.0,
+    "fajir": "3:17",
+    "fajirIqamah": "4:00",
+    "sunrise": "5:18",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:18",
+    "asrIqamah": "6:00",
+    "maghrib": "8:55",
+    "maghribIqamah": "9:05",
+    "isha": "10:57",
+    "ishaIqamah": "11:05"
 }, {
-	"day": 29.0
-	, "fajir": "3:15"
-	, "fajirIqamah": "4:00"
-	, "sunrise": "5:18"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:19"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:56"
-	, "maghribIqamah": "9:00"
-	, "isha": "10:59"
-	, "ishaIqamah": "11:05"
+    "date": 29.0,
+    "fajir": "3:15",
+    "fajirIqamah": "4:00",
+    "sunrise": "5:18",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:19",
+    "asrIqamah": "6:00",
+    "maghrib": "8:56",
+    "maghribIqamah": "9:05",
+    "isha": "10:59",
+    "ishaIqamah": "11:05"
 }, {
-	"day": 30.0
-	, "fajir": "3:14"
-	, "fajirIqamah": "4:00"
-	, "sunrise": "5:17"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:19"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:57"
-	, "maghribIqamah": "9:00"
-	, "isha": "11:01"
-	, "ishaIqamah": "11:05"
+    "date": 30.0,
+    "fajir": "3:14",
+    "fajirIqamah": "4:00",
+    "sunrise": "5:17",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:19",
+    "asrIqamah": "6:00",
+    "maghrib": "8:57",
+    "maghribIqamah": "9:05",
+    "isha": "11:01",
+    "ishaIqamah": "11:05"
 }, {
-	"day": 31.0
-	, "fajir": "3:12"
-	, "fajirIqamah": "4:00"
-	, "sunrise": "5:16"
-	, "duhur": "1:07"
-	, "duhurIqamah": "1:30"
-	, "asr": "5:19"
-	, "asrIqamah": "6:00"
-	, "maghrib": "8:58"
-	, "maghribIqamah": "9:00"
-	, "isha": "11:03"
-	, "ishaIqamah": "11:05"
+    "date": 31.0,
+    "fajir": "3:12",
+    "fajirIqamah": "4:00",
+    "sunrise": "5:16",
+    "duhur": "1:07",
+    "duhurIqamah": "1:30",
+    "asr": "5:19",
+    "asrIqamah": "6:00",
+    "maghrib": "8:58",
+    "maghribIqamah": "9:05",
+    "isha": "11:03",
+    "ishaIqamah": "11:05"
 }]
