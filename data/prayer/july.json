@@ -1,6 +1,6 @@
 [
     {
-        "date": 1.0,
+        "day": 1.0,
         "fajir": "3:05",
         "fajirIqamah": "3:50",
         "sunrise": "5:15",
@@ -14,7 +14,7 @@
         "ishaIqamah": "11:25"
     },
     {
-        "date": 2.0,
+        "day": 2.0,
         "fajir": "3:06",
         "fajirIqamah": "3:50",
         "sunrise": "5:15",
@@ -28,7 +28,7 @@
         "ishaIqamah": "11:25"
     },
     {
-        "date": 3.0,
+        "day": 3.0,
         "fajir": "3:07",
         "fajirIqamah": "3:50",
         "sunrise": "5:16",
@@ -42,7 +42,7 @@
         "ishaIqamah": "11:20"
     },
     {
-        "date": 4.0,
+        "day": 4.0,
         "fajir": "3:08",
         "fajirIqamah": "3:50",
         "sunrise": "5:17",
@@ -56,7 +56,7 @@
         "ishaIqamah": "11:20"
     },
     {
-        "date": 5.0,
+        "day": 5.0,
         "fajir": "3:10",
         "fajirIqamah": "3:50",
         "sunrise": "5:17",
@@ -70,7 +70,7 @@
         "ishaIqamah": "11:20"
     },
     {
-        "date": 6.0,
+        "day": 6.0,
         "fajir": "3:11",
         "fajirIqamah": "3:50",
         "sunrise": "5:18",
@@ -84,7 +84,7 @@
         "ishaIqamah": "11:20"
     },
     {
-        "date": 7.0,
+        "day": 7.0,
         "fajir": "3:12",
         "fajirIqamah": "3:50",
         "sunrise": "5:19",
@@ -98,7 +98,7 @@
         "ishaIqamah": "11:15"
     },
     {
-        "date": 8.0,
+        "day": 8.0,
         "fajir": "3:14",
         "fajirIqamah": "3:50",
         "sunrise": "5:20",
@@ -112,7 +112,7 @@
         "ishaIqamah": "11:15"
     },
     {
-        "date": 9.0,
+        "day": 9.0,
         "fajir": "3:15",
         "fajirIqamah": "3:50",
         "sunrise": "5:20",
@@ -126,7 +126,7 @@
         "ishaIqamah": "11:15"
     },
     {
-        "date": 10.0,
+        "day": 10.0,
         "fajir": "3:17",
         "fajirIqamah": "3:50",
         "sunrise": "5:21",
@@ -140,7 +140,7 @@
         "ishaIqamah": "11:15"
     },
     {
-        "date": 11.0,
+        "day": 11.0,
         "fajir": "3:19",
         "fajirIqamah": "3:55",
         "sunrise": "5:22",
@@ -154,7 +154,7 @@
         "ishaIqamah": "11:15"
     },
     {
-        "date": 12.0,
+        "day": 12.0,
         "fajir": "3:20",
         "fajirIqamah": "3:55",
         "sunrise": "5:23",
@@ -168,7 +168,7 @@
         "ishaIqamah": "11:10"
     },
     {
-        "date": 13.0,
+        "day": 13.0,
         "fajir": "3:22",
         "fajirIqamah": "3:55",
         "sunrise": "5:24",
@@ -182,7 +182,7 @@
         "ishaIqamah": "11:10"
     },
     {
-        "date": 14.0,
+        "day": 14.0,
         "fajir": "3:24",
         "fajirIqamah": "3:55",
         "sunrise": "5:25",
@@ -196,7 +196,7 @@
         "ishaIqamah": "11:10"
     },
     {
-        "date": 15.0,
+        "day": 15.0,
         "fajir": "3:26",
         "fajirIqamah": "3:55",
         "sunrise": "5:26",
@@ -210,7 +210,7 @@
         "ishaIqamah": "11:05"
     },
     {
-        "date": 16.0,
+        "day": 16.0,
         "fajir": "3:27",
         "fajirIqamah": "3:55",
         "sunrise": "5:27",
@@ -224,7 +224,7 @@
         "ishaIqamah": "11:05"
     },
     {
-        "date": 17.0,
+        "day": 17.0,
         "fajir": "3:29",
         "fajirIqamah": "3:55",
         "sunrise": "5:28",
@@ -238,7 +238,7 @@
         "ishaIqamah": "11:05"
     },
     {
-        "date": 18.0,
+        "day": 18.0,
         "fajir": "3:31",
         "fajirIqamah": "3:55",
         "sunrise": "5:29",
@@ -252,7 +252,7 @@
         "ishaIqamah": "11:00"
     },
     {
-        "date": 19.0,
+        "day": 19.0,
         "fajir": "3:33",
         "fajirIqamah": "3:55",
         "sunrise": "5:30",
@@ -266,7 +266,7 @@
         "ishaIqamah": "11:00"
     },
     {
-        "date": 20.0,
+        "day": 20.0,
         "fajir": "3:35",
         "fajirIqamah": "3:55",
         "sunrise": "5:31",
@@ -280,7 +280,7 @@
         "ishaIqamah": "11:00"
     },
     {
-        "date": 21.0,
+        "day": 21.0,
         "fajir": "3:37",
         "fajirIqamah": "4:00",
         "sunrise": "5:32",
@@ -294,7 +294,7 @@
         "ishaIqamah": "11:00"
     },
     {
-        "date": 22.0,
+        "day": 22.0,
         "fajir": "3:39",
         "fajirIqamah": "4:00",
         "sunrise": "5:33",
@@ -308,7 +308,7 @@
         "ishaIqamah": "11:00"
     },
     {
-        "date": 23.0,
+        "day": 23.0,
         "fajir": "3:41",
         "fajirIqamah": "4:00",
         "sunrise": "5:35",
@@ -322,7 +322,7 @@
         "ishaIqamah": "10:55"
     },
     {
-        "date": 24.0,
+        "day": 24.0,
         "fajir": "3:43",
         "fajirIqamah": "4:00",
         "sunrise": "5:36",
@@ -336,7 +336,7 @@
         "ishaIqamah": "10:55"
     },
     {
-        "date": 25.0,
+        "day": 25.0,
         "fajir": "3:45",
         "fajirIqamah": "4:00",
         "sunrise": "5:37",
@@ -350,7 +350,7 @@
         "ishaIqamah": "10:55"
     },
     {
-        "date": 26.0,
+        "day": 26.0,
         "fajir": "3:47",
         "fajirIqamah": "4:00",
         "sunrise": "5:38",
@@ -364,7 +364,7 @@
         "ishaIqamah": "10:45"
     },
     {
-        "date": 27.0,
+        "day": 27.0,
         "fajir": "3:49",
         "fajirIqamah": "4:20",
         "sunrise": "5:39",
@@ -378,7 +378,7 @@
         "ishaIqamah": "10:45"
     },
     {
-        "date": 28.0,
+        "day": 28.0,
         "fajir": "3:51",
         "fajirIqamah": "4:20",
         "sunrise": "5:40",
@@ -392,7 +392,7 @@
         "ishaIqamah": "10:45"
     },
     {
-        "date": 29.0,
+        "day": 29.0,
         "fajir": "3:53",
         "fajirIqamah": "4:20",
         "sunrise": "5:42",
@@ -406,7 +406,7 @@
         "ishaIqamah": "10:40"
     },
     {
-        "date": 30.0,
+        "day": 30.0,
         "fajir": "3:55",
         "fajirIqamah": "4:20",
         "sunrise": "5:43",
@@ -420,7 +420,7 @@
         "ishaIqamah": "10:40"
     },
     {
-        "date": 31.0,
+        "day": 31.0,
         "fajir": "3:57",
         "fajirIqamah": "4:20",
         "sunrise": "5:44",
