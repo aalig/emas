@@ -79,7 +79,7 @@ emasApp.service('currentMonthService', function () {
 	
 	// Gets the Quran JSON file
 	this.quranData = function () {
-		var quranUrl = '../../data/reminder/quran/quran.json';
+		var quranUrl = '../../data/reminder/quran/quran-2.json';
 		console.log("Reading the Quran JSON file using angular at the path: " + quranUrl);
 		return quranUrl;
 	};
