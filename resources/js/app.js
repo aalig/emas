@@ -86,7 +86,7 @@ emasApp.service('currentMonthService', function () {
 	
 	// Gets hadith JSON file
 	this.hadithData = function () {
-		var hadithUrl = '../../data/reminder/hadith/hadith-1.json?v=1.0';
+		var hadithUrl = '../../data/reminder/hadith/hadith-1.json?v=1.1';
 		console.log("Reading the JSON file using angular at the path: " + hadithUrl);
 		return hadithUrl;
 	};
