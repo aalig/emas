@@ -53,16 +53,16 @@
 }, {
     "day": 5.0,
     "fajir": "5:34",
-    "fajirIqamah": "6:45",
+    "fajirIqamah": "5:45",
     "sunrise": "7:00",
     "duhur": "11:53",
-    "duhurIqamah": "1:30",
+    "duhurIqamah": "12:30",
     "asr": "2:21",
-    "asrIqamah": "3:50",
+    "asrIqamah": "2:50",
     "maghrib": "4:46",
     "maghribIqamah": "4:55",
     "isha": "6:13",
-    "ishaIqamah": "7:30"
+    "ishaIqamah": "6:30"
 }, {
     "day": 6.0,
     "fajir": "5:35",
